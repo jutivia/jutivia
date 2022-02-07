@@ -11,7 +11,7 @@ If this doesn't work, you can always reach our coven's customer care unit, by sc
 If this still don't work, it means the coven doesn't like you spirit.
  -->
 ### Hi, I am Jumoke 👋 
-##### 🌱 I started out as a frontend developer, and I'm surrently getting my hands dirty with solidity
+##### 🌱 I started out as a frontend developer, and I'm currently getting my hands dirty with solidity
 ##### ✨ Fun fact, Building smart contracts is my new favourite thing to do
 ##### 😄 Pronouns: She/ Her
 ##### 👯 I’m looking to collaborate on Web3 projects
