@@ -12,7 +12,7 @@ If this still don't work, it means the coven doesn't like you spirit.
  -->
 ### Hi, I am Jumoke 👋 
 ##### 🌱 I started out as a frontend developer, and I'm currently getting my hands dirty with solidity
-##### ✨ Fun fact, Building smart contracts is my new favourite thing to do
+##### ✨ Fun fact: Building smart contracts is my new favourite thing to do
 ##### 😄 Pronouns: She/ Her
 ##### 👯 I’m looking to collaborate on Web3 projects
 ##### 🔭 My working stack so far includes: React, Vue.js, Solidity and Node.js
