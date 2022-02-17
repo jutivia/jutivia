@@ -13,7 +13,7 @@ If this still don't work, it means the coven doesn't like you spirit.
  ### Hi, I am Jumoke 👋 
  ##### 🌱 I started out as a frontend developer, and I'm currently getting my hands dirty with solidity
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jutivia&theme=nightowl)](https://git.io/streak-stats)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jutivia&layout=compact)](https://github.com/jutivia/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jutivia&layout=compact&card_width=445)](https://github.com/jutivia/github-readme-stats)
  <!--  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jutivia&show_icons=true&theme=tokyonight)  -->
 
 ##### ✨ Fun fact: Building smart contracts is my new favourite thing to do
