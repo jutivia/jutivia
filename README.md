@@ -10,13 +10,13 @@ To join my coven, Just say hi 3x while holding you hannd to you hand and stampin
 If this doesn't work, you can always reach our coven's customer care unit, by screaming "Jutivia" 5 times
 If this still don't work, it means the coven doesn't like you spirit.
  -->
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jutivia&show_icons=true&theme=radical) 
-     [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jutivia&theme=dark)](https://git.io/streak-stats)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jutivia&show_icons=true&theme=nightowl) 
+     [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jutivia&theme=nightowl)](https://git.io/streak-stats)
 ### Hi, I am Jumoke 👋 
 ##### 🌱 I started out as a frontend developer, and I'm currently getting my hands dirty with solidity
 ##### ✨ Fun fact: Building smart contracts is my new favourite thing to do
 ##### 😄 Pronouns: She/ Her
 ##### 👯 I’m looking to collaborate on Web3 projects
 ##### 🔭 My working stack so far includes: React, Vue.js, Solidity and Node.js
-
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jutivia&repo=github-readme-stats)](https://github.com/jutivia/github-readme-stats) -->
 
