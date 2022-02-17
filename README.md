@@ -10,7 +10,7 @@ To join my coven, Just say hi 3x while holding you hannd to you hand and stampin
 If this doesn't work, you can always reach our coven's customer care unit, by screaming "Jutivia" 5 times
 If this still don't work, it means the coven doesn't like you spirit.
  -->
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jutivia&theme=nightowl)](https://git.io/streak-stats)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jutivia&theme=nightowl)](https://git.io/streak-stats)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jutivia&layout=compact)](https://github.com/jutivia/github-readme-stats)
  <!--  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jutivia&show_icons=true&theme=tokyonight)  -->
 ### Hi, I am Jumoke 👋 
