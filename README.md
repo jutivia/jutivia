@@ -11,8 +11,8 @@ If this doesn't work, you can always reach our coven's customer care unit, by sc
 If this still don't work, it means the coven doesn't like you spirit.
  -->
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jutivia&theme=nightowl)](https://git.io/streak-stats)
-<!--  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jutivia&show_icons=true&theme=tokyonight)  -->
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jutivia&layout=compact)](https://github.com/jutivia/github-readme-stats)
+ <!--  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jutivia&show_icons=true&theme=tokyonight)  -->
 ### Hi, I am Jumoke 👋 
 ##### 🌱 I started out as a frontend developer, and I'm currently getting my hands dirty with solidity
 ##### ✨ Fun fact: Building smart contracts is my new favourite thing to do
