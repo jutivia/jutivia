@@ -24,7 +24,7 @@ If this still don't work, it means the coven doesn't like you spirit.
 ##### 🔭 My working stack so far includes: React, Vue.js, Solidity and Node.js
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jutivia&repo=github-readme-stats)](https://github.com/jutivia/github-readme-stats) -->
 
-☎️ Connect with me on<br>
+☎️ Connect with me on:<br>
 * <a href="https://www.linkedin.com/in/jutivia/">Linkedin</a><br>
 * <a href="https://twitter.com/JujuTheBlessed">Twitter</a> <br>
 * <a href="https://medium.com/@jutivia">Medium</a><br>
