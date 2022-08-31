@@ -11,7 +11,9 @@ If this doesn't work, you can always reach our coven's customer care unit, by sc
 If this still don't work, it means the coven doesn't like you spirit.
  -->
  ### Hi, I am Jumoke 👋 
- ##### 🌱 I started out as a frontend developer, and I'm currently getting my hands dirty with solidity
+ ##### 🌱 I am a software Developer.
+ ##### Javascript || Node || Solidity
+
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jutivia&theme=nightowl)](https://git.io/streak-stats)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
  <br>
  <br>
