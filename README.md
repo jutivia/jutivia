@@ -12,7 +12,7 @@ If this still don't work, it means the coven doesn't like you spirit.
  -->
  ### Hi, I am Jumoke 👋 
  ##### 🌱 I am a software Developer.
- ##### Javascript || Node || Solidity
+ ##### Javascript || Node || Solidity || Hackshell
 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jutivia&theme=nightowl)](https://git.io/streak-stats)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
  <br>
