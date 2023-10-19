@@ -13,10 +13,8 @@ If this still don't work, it means the coven doesn't like you spirit.
  ### Hi, I am Jumoke 👋 
  ##### 🌱 I am a software Developer.
  ##### Javascript || Node || Solidity
- <br>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jutivia&layout=compact&card_width=445)](https://github.com/jutivia/github-readme-stats)
- <!--  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jutivia&show_icons=true&theme=tokyonight)  -->
-
+<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jutivia&layout=compact&card_width=445)](https://github.com/jutivia/github-readme-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jutivia&show_icons=true&theme=tokyonight)  -->
 ##### ✨ Fun fact: Building smart contracts is my new favourite thing to do
 ##### 😄 Pronouns: She/ Her
 ##### 👯 I’m looking to collaborate on Web3 projects
